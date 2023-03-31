@@ -7,7 +7,7 @@ function Layout({ children }) {
   return (
     <>
       <Head>
-        <title>Bread | Presale</title>
+        <title>Bread | Vaults</title>
 
         <link
           rel="apple-touch-icon"
